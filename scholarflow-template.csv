@@ -1,0 +1,9 @@
+type,name,organization,country,link,applicationOpen,deadline,stage,notes
+scholarship,Merit-Based Scholarship,Stanford University,USA,https://stanford.edu/scholarships,2024-01-15,2024-03-15,To Apply,Full tuition coverage for international students
+scholarship,Fulbright Program,Government,USA,https://fulbright.org,2024-02-01,2024-04-01,To Apply,Graduate research opportunities
+admission,Computer Science MS,MIT,USA,https://mit.edu/cs-grad,2024-01-01,2024-12-15,In Progress,Top choice - application submitted
+admission,Data Science PhD,University of Oxford,UK,https://ox.ac.uk/data-science,2024-03-01,2024-06-01,To Apply,Requires IELTS 7.5
+scholarship,DAAD Scholarship,Government,Germany,https://daad.de/scholarships,2024-02-15,2024-05-31,To Apply,Covers living expenses and tuition
+admission,Business Administration MBA,Harvard Business School,USA,https://hbs.edu/mba,2024-01-10,2024-04-15,Submitted,Interview completed
+scholarship,Rhodes Scholarship,University of Oxford,UK,https://rhodeshouse.ox.ac.uk,2024-03-01,2024-07-01,To Apply,Most prestigious international scholarship
+admission,Engineering PhD,ETH Zurich,Switzerland,https://ethz.ch/engineering,2024-02-01,2024-04-30,In Progress,Supervisor contacted 
